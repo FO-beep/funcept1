@@ -1,6 +1,6 @@
 {
-    "api": "http://localhost:4000",
-    "appUrl": "http://localhost:3000",
+    "api": "https://funcept-final-project.herokuapp.com",
+    "appUrl": "https://funcept-final-project.herokuapp.com",
     "appTitle": "FunCept",
     "maxVideoDurationSeconds": 16
 }
